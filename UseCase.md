@@ -1,4 +1,4 @@
-Ansible to troubleshoot OSPF issues(udpated 11/19)
+Ansible to troubleshoot OSPF issues(updated 11/24)
 =====================================
 Detect common OSPF issues with the help of a simple Ansible playbook.
 
