@@ -1,6 +1,6 @@
 Ansible to troubleshoot OSPF issues(updated 11/24)
 =====================================
-Detect common OSPF issues with the help of a simple Ansible playbook.
+Detect common OSPF issues with the help of a simple Ansible playbook. Added by james for resync test.
 
 # Brief
 This simple but powerful Ansible playbook can be used to troubleshoot OSPF network problems on a variety of platforms. It does not require extensive preparatory configuration for individual host state checking and rapidly discovers the vast majority of OSPF problems. 
