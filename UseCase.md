@@ -1,6 +1,6 @@
-Ansible to troubleshoot OSPF issues (updated 12/7)
+Ansible to troubleshoot OSPF issues (updated 12/8)
 =====================================
-Detect common OSPF issues with the help of a simple Ansible playbook. Updated by james for resync test.
+Detect common OSPF issues with the help of a simple Ansible playbook.
 
 # Brief
 This simple but powerful Ansible playbook can be used to troubleshoot OSPF network problems on a variety of platforms. It does not require extensive preparatory configuration for individual host state checking and rapidly discovers the vast majority of OSPF problems. 
@@ -34,7 +34,7 @@ To use this code you will need: Set up a Linux VM as an Ansible client for testi
 [Catalyst 9800 Wireless LAN Controller](https://devnetsandbox.cisco.com/RM/Diagram/Index/9900a725-c584-42ae-8d51-3ac87533c5c5?diagramType=Topology)
 
 ## Links to LearningLab
-[Networking Basics](https://developer.cisco.com/learning/modules/networking-basics/)
+not available
 
 ## Solutions on EcosystemExchange
 [Physical Density Controls](https://testing-developer.cisco.com/ecosystem/meraki/apps/5ed8fa69a0774c0a8cf97e9b/)
