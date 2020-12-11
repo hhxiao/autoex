@@ -1,4 +1,4 @@
-Ansible to troubleshoot OSPF issues (updated 12/8)
+Ansible to troubleshoot OSPF issues (updated 12/11)
 =====================================
 Detect common OSPF issues with the help of a simple Ansible playbook.
 
@@ -26,15 +26,15 @@ To use this code you will need: Set up a Linux VM as an Ansible client for testi
 1. Run "make integ" command.
 
 ## WhitePaper
-[WhitePaperVal](http://www.whitePaper.com/)
+[WhitePaperVal](https://www.whitepaper.com/)
 
-[WhitePaperVal2](http://www.whitePaper222.com/)
+[WhitePaperVal2](https://developer.cisco.com/certification/)
 
 ## Related Sandbox
 [Catalyst 9800 Wireless LAN Controller](https://devnetsandbox.cisco.com/RM/Diagram/Index/9900a725-c584-42ae-8d51-3ac87533c5c5?diagramType=Topology)
 
 ## Links to LearningLab
-[Networking Basics](not available)
+[Networking Basics](https://developer.cisco.com/learning/modules/networking-basics/)
 
 ## Solutions on EcosystemExchange
 [Physical Density Controls](https://testing-developer.cisco.com/ecosystem/meraki/apps/5ed8fa69a0774c0a8cf97e9b/)
