@@ -16,11 +16,11 @@ And the pyATS framework
 
 Featuring
 
-![Markmap](./MarkMapLogo.PNG)
+![Markmap](./MarkMapLogo.png)
 
 And now
 
-![NETJSON](/one/NETJSON.PNG)
+![NETJSON](/one/NETJSON.png)
 
 Also
 
